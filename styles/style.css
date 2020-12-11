@@ -1,0 +1,11 @@
+body {
+    margin: 25%;
+    font-family: "Poppins", sans-serif;
+    background-color: #2467b4;
+}
+
+.conteiner {
+    height: 25%;
+    display: flex;
+    align-items: center;
+}
